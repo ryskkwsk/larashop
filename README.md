@@ -5,7 +5,7 @@
 ```
 $ php artisan --version
 ```
-aaaaa
+aaaaafdsas
 ### コンテナ関連
 ```
 ・コンテナ立ち上げ(laradock上で)
